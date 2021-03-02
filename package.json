@@ -4,6 +4,7 @@
   "description": "",
   "main": "supabass.js",
   "dependencies": {
+    "@supabase/supabase-js": "^1.4.2",
     "dotenv": "^8.2.0"
   },
   "devDependencies": {},
