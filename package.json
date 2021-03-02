@@ -1,0 +1,23 @@
+{
+  "name": "life-organizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "supabass.js",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phe0/life-organizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phe0/life-organizer/issues"
+  },
+  "homepage": "https://github.com/Phe0/life-organizer#readme"
+}
